@@ -1,4 +1,0 @@
-h2 yo yo yo
-p
-	button click='someFunction' Clicko.
-	button{ action someFunction } Click me.

@@ -3,8 +3,3 @@
 App.Router.map(function() {
   // this.resource('posts');
 });
-
-
-App.Router.map(function() {
-	this.resource('users');
-});
